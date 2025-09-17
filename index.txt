@@ -1,0 +1,12 @@
+<html>
+<body>
+<tr>
+<th>name</th>
+<th>city</th>
+<tr>
+<td>roshini</td>
+<td>amp</td>
+</tr>
+<td>nagasri</td>
+<td>kkd</td>
+</tr>
